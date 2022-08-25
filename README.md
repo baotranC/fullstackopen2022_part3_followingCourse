@@ -1,4 +1,4 @@
-
+BE
 
 https://dry-river-43580.herokuapp.com/api/notes
 
@@ -6,13 +6,15 @@ https://dry-river-43580.herokuapp.com/api/notes
 BE: https://github.com/baotranC/fullstackopen2022_part3_followingCourse_BE
 FE: https://github.com/baotranC/fullstackopen2022/tree/main/part3/followingCourse/courseexample_b_part2_courseexample_e_Frontend
 
+Add build file that contains FE
+
+
+
+
+
 (node index.js)
 
-
 npm start
-
-
-
 
 
 Backend server in node
