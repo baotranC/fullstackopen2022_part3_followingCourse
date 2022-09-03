@@ -62,3 +62,17 @@ Combines these two and contains the necessary git commands to update the backend
 
 - `npm run logs:prod`
 Show the Heroku logs.
+
+
+=================================================
+
+TODO: Add .env -> using dotenv 
+
+ex
+## TODO: Configuration 
+Need to configure environment variable using .env file:
+
+![](countries6.JPG)
+
+    # .env
+    REACT_APP_API_KEY=[Enter API key]
