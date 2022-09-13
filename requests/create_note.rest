@@ -1,0 +1,8 @@
+POST http://localhost:3002/api/notes
+Content-Type: application/json
+
+{
+    "content": "Tester",
+    "date": "2022-09-02T12:23:04.996Z",
+    "important": true
+}
